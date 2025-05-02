@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import*
 from openpyxl import load_workbook
 from tkinter import messagebox
 
